@@ -1,0 +1,31 @@
+{
+  "name": "excel-in-js",
+  "version": "1.0.0",
+  "description": "Excel alternative in pure JavaScript",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IKhumoyun/excel-in-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Khumoyun Inoyatov <khumoyun@inoyatov.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IKhumoyun/excel-in-js/issues"
+  },
+  "homepage": "https://github.com/IKhumoyun/excel-in-js#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
