@@ -1,8 +1,8 @@
-#Excel in pure JavaScript
+# Excel in pure JavaScript
 
 ### REQUIREMENTS
 
-####Webpack
+#### Webpack
 
 - Handling imports/exports
 - Babel transpiling
@@ -13,5 +13,5 @@
     - Prod Mode - minified code
 
 
-####Git
+#### Git
 Version Control System
